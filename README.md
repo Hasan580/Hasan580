@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Firas</h1>
 <h3 align="center">A passionate frontend developer from iraq</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj?rs=1&pid=ImgDetMain"
+<img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj?rs=1&pid=ImgDetMain"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan580&label=Profile%20views&color=0e75b6&style=flat" alt="hasan580" /> </p>
 
