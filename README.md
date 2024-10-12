@@ -12,8 +12,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-# 🎵WHAT I LOVE
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Lindsey Stirling - Carol of the Bells (Official Music Video)](https://ytcards.demolab.com/?id=EKkzbbLYPuI&title=Lindsey+Stirling+Carol+of+the+Bells+Official+Music Video&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Lindsey Stirling - Carol of the Bells (Official Music Video)")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-<!-- END YOUTUBE-CARDS -->
+
+
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Hasan580&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
