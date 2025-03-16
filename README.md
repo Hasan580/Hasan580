@@ -19,7 +19,7 @@
 <a href="https://freecodecamp.org/certification/CjDQ/responsive-web-design">responsive-web-design-freecodecamp.org</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/32aaa0226/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CjDQ__)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hsn_fi0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://hasan580.github.io/)
 ## 🏆GitHub Trophies
