@@ -26,5 +26,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hsn_fi0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://hasan580.github.io/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UYVnK2aF)
+<a href="https://www.codedex.io/@Hassanf" target="_blank">
+    <img src="https://img.shields.io/badge/CODEDEX-FF5733?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+</p>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Hasan580&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
