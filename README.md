@@ -33,3 +33,5 @@
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan580&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
