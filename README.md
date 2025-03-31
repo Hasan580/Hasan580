@@ -3,8 +3,8 @@
 **I am a passionate Web Developer, Designer, and Python Script Writer. With a strong background in creating dynamic and visually appealing web applications, I enjoy turning complex problems into simple, beautiful, and intuitive designs. My expertise in Python scripting allows me to automate tasks and develop efficient solutions.**
 👩🏻‍💻 Control Engineer<br/>
 👩🏻‍🎓 Studied control and system engineering at <a href="https://cse.uotechnology.edu.iq/index.php/"target="_blank">university of technology 2023-2027-iraq</a><br/>
-🌱 I’m currently learning **React JS.**<br/>
- 📫 How to reach me **hassanazawi50@gmail.com**
+🌱 I’m currently learning React JS.<br/>
+ 📫 How to reach me hassanazawi50@gmail.com
 
 
 # 💻 MY SKILLS
