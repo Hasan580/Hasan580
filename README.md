@@ -4,7 +4,7 @@
 👩🏻‍💻 Control Engineer<br/>
 👩🏻‍🎓 Studied control and system engineering at <a href="https://cse.uotechnology.edu.iq/index.php/"target="_blank">university of technology 2023-2027-iraq</a><br/>
 🌱 I’m currently learning React JS.<br/>
- 📫 How to reach me hassanazawi50@gmail.com
+ 📫 How to reach me <a href="mailto:hassanazawi50@gmail.com">hassanazawi50@gmail.com</a>
 
 
 # 💻 MY SKILLS
