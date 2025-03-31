@@ -29,6 +29,5 @@
     <img src="https://img.shields.io/badge/CODEDEX-FF5733?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
 </p>
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Hasan580&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+## 🏆GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
