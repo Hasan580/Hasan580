@@ -1,5 +1,4 @@
  <h1>👋 Hi, I'm hasan!</h1>
-<img align='right' src='https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif' width='200"'>
 **I am a passionate Web Developer, Designer, and Python Script Writer. With a strong background in creating dynamic and visually appealing web applications, I enjoy turning complex problems into simple, beautiful, and intuitive designs. My expertise in Python scripting allows me to automate tasks and develop efficient solutions.**
 👩🏻‍💻 Control Engineer<br/>
 👩🏻‍🎓 Studied control and system engineering at <a href="https://cse.uotechnology.edu.iq/index.php/"target="_blank">university of technology 2023-2027-iraq</a><br/>
@@ -32,3 +31,4 @@
 </p>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Hasan580&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
