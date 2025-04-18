@@ -18,7 +18,8 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 ## 📑Certifications
 <a href="https://freecodecamp.org/certification/CjDQ/responsive-web-design">responsive-web-design-freecodecamp.org</a><br>
-<a href="https://www.codedex.io/certificates/9df54245-b96c-4452-b8d7-042eacb0b179">Python Certification</a>
+<a href="https://www.codedex.io/certificates/9df54245-b96c-4452-b8d7-042eacb0b179">Python Certification(Codedx)</a>
+<a href="https://www.codedex.io/certificates/60daa509-5930-4ded-a694-375f840aa8e5">Html Certification(Codedx)</a>
 ## Personal accounts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/32aaa0226/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CjDQ__)
